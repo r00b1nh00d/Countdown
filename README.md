@@ -59,34 +59,17 @@ input.onButtonPressed(Button.A, function () {
 
 ```
 
+## ~ @unplugged 
 
-> Diese Seite bei [https://r00b1nh00d.github.io/countdown/](https://r00b1nh00d.github.io/countdown/) öffnen
+Es ist geschafft dein Countdown sollte nun jede Sekunde eine weiter LED auf der Anzeige am Calliope anschalten und am Ende einen Ton abspielen, der Signalisiert, dass der Countdown abgelaufen ist.
 
-## Als Erweiterung verwenden
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/r00b1nh00d/countdown** suchen und importieren
-
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/r00b1nh00d/countdown/workflows/MakeCode/badge.svg)
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/r00b1nh00d/countdown** ein und klicke auf Importieren
-
-## Blockvorschau
-
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
-
-![Eine gerenderte Ansicht der Blöcke](https://github.com/r00b1nh00d/countdown/raw/master/.github/makecode/blocks.png)
+#### Dieses Tutorial verwenden
+Um dieses Tutorial zu verwenden muss der link [https://makecode.calliope.cc/beta/#tutorial:https://github.com/r00b1nh00d/Countdown] in das Adressfeld des Browsers kopiert werden.
 
 #### Metadaten (verwendet für Suche, Rendering)
 
 * for PXT/calliopemini
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
