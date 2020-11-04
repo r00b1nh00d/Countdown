@@ -7,7 +7,7 @@ Einen Countdown oder Sanduhr mit dem @boardname@ programmieren lernen.
 Lerne wie du Schleifen am @boardname@ nutzen kannst indem du einen einfachen Countdown programmierst.
 Nachdem der Knopf A gedückt wurde soll ein Counddown ablaufen und sich die Anzeige auf dem @boardname@ nach und nach füllen.
 
-## Schrit 1: Die LED Matrix ansteuern
+## Schritt 1: Die LED Matrix ansteuern
 Beginnen wir mit dem Block ``||input: wenn Knopf A gedrückt||`` welcher den Countdown Starten soll. Bevor der Countdown wirklich startet ist es gut den erstmal den  ``||basic: Bildschirminhalt löschen||`` diesen Block gibt es auch unter ``||basic: Grundlagen||``
 Als nächstest nehmen wir aus dem Bereich ``||loops:Schleifen||`` den Block mit ``||loops: für Index von 0 bis 4 ||`` Dieser kommt unter den Block ``|basic: Bildschirminhalt löschen|`` in diese Schlaufe können wir aus dem Bereich ``||led: Led||`` den Block ``||led: zeichne x 0 y 0||`` 
 Schiebe jetzt noch die Variable ``||variables:Index||`` an die Stelle für den x-Wert. <br>
