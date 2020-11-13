@@ -66,7 +66,7 @@ Es ist geschafft dein Countdown sollte nun jede Sekunde eine weiter LED auf der 
 
 
 #### Dieses Tutorial verwenden
-Um dieses Tutorial zu verwenden muss der link [https://makecode.calliope.cc/beta/#tutorial:https://github.com/r00b1nh00d/Countdown] in das Adressfeld des Browsers kopiert werden.
+Um dieses Tutorial zu verwenden muss der link [https://makecode.calliope.cc/#tutorial:https://github.com/r00b1nh00d/Countdown] in das Adressfeld des Browsers kopiert werden.
 
 #### Metadaten (verwendet für Suche, Rendering)
 
