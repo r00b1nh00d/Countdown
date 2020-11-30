@@ -1,15 +1,15 @@
 # Countdown
 ## ~avatar avatar @unplugged
 ![Sanduhr](https://github.com/r00b1nh00d/Sanduhr/blob/master/Sanduhr.gif?raw=true) <br>
-Einen Countdown oder Sanduhr mit dem @boardname@ programmieren lernen.
+Lerne in diesem Tutorial einen Countdown oder eine Sanduhr mit dem Calliope zu programmieren.
 
 
 ## ~ @unplugged
-Lerne wie du Schleifen am @boardname@ nutzen kannst indem du einen einfachen Countdown programmierst.
-Nachdem der Knopf A gedückt wurde soll ein Counddown ablaufen und sich die Anzeige auf dem @boardname@ nach und nach füllen.
+Lerne, wie du Schleifen am @boardname@ nutzen kannst, indem du einen einfachen Countdown programmierst.
+Nachdem der Knopf A gedrückt wurde, soll ein Counddown ablaufen und sich die Anzeige auf dem @boardname@ nach und nach füllen.
 
 ## Schritt 1: Die LED Matrix ansteuern
-Beginnen wir mit dem Block ``||input: wenn Knopf A gedrückt||`` welcher den Countdown Starten soll. Bevor der Countdown wirklich startet ist es gut den erstmal den  ``||basic: Bildschirminhalt löschen||`` diesen Block gibt es auch unter ``||basic: Grundlagen||``
+Beginnen wir mit dem Block ``||input: wenn Knopf A gedrückt||``, welcher den Countdown starten soll. Bevor der Countdown wirklich startet, ist es gut, erstmal den  ``||basic: Bildschirminhalt zu löschen||``. Diesen Block gibt es auch unter ``||basic: Grundlagen||``
 Als nächstest nehmen wir aus dem Bereich ``||loops:Schleifen||`` den Block mit ``||loops: für Index von 0 bis 4 ||`` Dieser kommt unter den Block ``|basic: Bildschirminhalt löschen|`` in diese Schlaufe können wir aus dem Bereich ``||led: Led||`` den Block ``||led: zeichne x 0 y 0||`` 
 Schiebe jetzt noch die Variable ``||variables:Index||`` an die Stelle für den x-Wert. <br>
 Hinweis eine ``||basic:pause||`` am Ende der Schleife lässt diese langsamer durchlaufen, damit unser Auge dem folgen kann.
